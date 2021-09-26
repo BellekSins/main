@@ -1,10 +1,10 @@
 #backgroundBody{
-    background: url(background.jpg);
+    background-image: url(https://i.pinimg.com/originals/1e/f0/62/1ef062225d88f60c043dc25fea3ee713.gif);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
-    background-color:#212121;
+    background-color:#2b2a2a;
     height: 100%;
 }
 #home{
@@ -13,7 +13,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .fa{
     padding: 10px;
@@ -24,7 +24,7 @@
     margin: 5px 2px;
     border-radius: 25%;
 
-    background: #212121;
+    background: #2b2a2a;
     color: white;
     opacity: 0.5;
     transition: .25s
@@ -34,8 +34,8 @@
     transform: scale(1.1);
 }
 img{
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 255px;
+    max-height: 255px;
 }
 h1{
     font-size: 325%;
